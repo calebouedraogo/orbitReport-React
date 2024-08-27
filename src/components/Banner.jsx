@@ -1,4 +1,4 @@
-export default function Banner () {
+function Banner () {
     return (
         <div>
             <header>Orbit Report</header>
@@ -6,3 +6,4 @@ export default function Banner () {
         </div>
     );
 }
+export default Banner;
